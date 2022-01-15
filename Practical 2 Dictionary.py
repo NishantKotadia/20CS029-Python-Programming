@@ -1,3 +1,7 @@
+
+# StudentID:    20CS029
+# Student Name: Nishant Kotadia
+
 def Merge(Student, Subject): return (Subject.update(Student))
 
 
